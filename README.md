@@ -1,2 +1,2 @@
-# Python-EDA
-Exploratory Data Analysis projects using Python libraries
+# Exploratory Data Analysis
+EDA projects using Python libraries
